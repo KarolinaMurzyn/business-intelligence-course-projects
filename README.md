@@ -4,16 +4,16 @@ Repozytorium zawiera raporty i materiały przygotowane w ramach ćwiczeń realiz
 
 ## Zawartość repozytorium
 
-### 1. `databricks_lakehouse_ml.pdf`
+### 1. `databricks_lakehouse_ml`
 Raport dotyczący pracy w środowisku Databricks i architekturze Data Lakehouse. Obejmuje budowę warstw Bronze, Silver i Gold, przetwarzanie danych ustrukturyzowanych i nieustrukturyzowanych, automatyzację pipeline’u z użyciem Databricks Jobs, wizualizacje biznesowe oraz prosty model predykcyjny ML.
 
-### 2. `powerbi-sales-dashboard.pdf`
+### 2. `powerbi_sales_dashboard`
 Raport przedstawiający proces przygotowania dashboardu sprzedażowego w Microsoft Power BI. Zawiera opis ładowania i transformacji danych, tworzenia miar DAX, budowy wizualizacji oraz analizy wyników z wykorzystaniem filtrów i KPI.
 
-### 3. `powerbi-sales-nyc-collisions.pdf`
+### 3. `powerbi_sales_nyc_collisions`
 Rozbudowany projekt Power BI obejmujący dwa obszary analityczne: sprzedaż oraz kolizje drogowe w Nowym Jorku. Raport zawiera preprocessing danych, Power Query, DAX, model danych oraz zestaw interaktywnych dashboardów wspierających analizę biznesową i przestrzenną.
 
-### 4. `northwind_olap_powerbi.pdf`
+### 4. `northwind_olap_powerbi`
 Materiał poświęcony transformacji relacyjnej bazy danych z modelu OLTP do analitycznego modelu OLAP, pracy z SQL, denormalizacji danych oraz wykorzystaniu Power BI do raportowania.
 
 ## Zakres tematyczny
@@ -32,16 +32,16 @@ This repository contains reports and materials prepared as part of lab exercises
 
 ## Repository contents
 
-### 1. 'databricks_lakehouse_ml.pdf`
+### 1. 'databricks_lakehouse_ml`
 Report focused on working in the Databricks environment and a Data Lakehouse architecture. It covers building Bronze, Silver and Gold layers, processing structured and unstructured data, automating the pipeline using Databricks Jobs, business visualizations, and a simple predictive ML model.
 
-### 2. `powerbi-sales-dashboard.pdf`
+### 2. `powerbi_sales_dashboard`
 Report describing the process of building a sales dashboard in Microsoft Power BI. It includes loading and transforming data, creating DAX measures, designing visualizations, and analysing results using filters and KPIs.
 
-### 3. `powerbi-sales-nyc-collisions.pdf`
+### 3. `powerbi_sales_nyc_collisions`
 An advanced Power BI project covering two analytical domains: sales and road collisions in New York City. The report includes data preprocessing, Power Query, DAX, data modeling, and a set of interactive dashboards supporting business and spatial analysis.
 
-### 4. `northwind_olap_powerbi.pdf`
+### 4. `northwind_olap_powerbi`
 Material focused on transforming a relational database from an OLTP model to an analytical OLAP model, working with SQL, denormalising data, and using Power BI for reporting.
 
 ## Topics covered
